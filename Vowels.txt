@@ -1,0 +1,20 @@
+Vowel
+
+Step one:
+Import scanner and ask user for an string (one word string)
+
+Step two:
+set variable equal to users input
+
+Step three: 
+use string legnth to obtain the length of the string
+
+Step four: 
+create a for loop that will loop for each digit of the users input
+
+Step five:
+create if cases for each the vowels (a,e,i,o,u,y)
+and input char at i and i being the varaible definded in step four
+so if input at  char 1 contains a e i o u or y incremet vowel by 1
+
+step six: print voweel
